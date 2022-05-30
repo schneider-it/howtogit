@@ -4,6 +4,8 @@
 
 This repository covers the most important git commands you are likely to need.
 
+Other great websites explain git commands very handy as well: https://www.atlassian.com/git/glossary
+
 ## Folder
 
 ### commit
